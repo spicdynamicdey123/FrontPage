@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devaditya Dey</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-2005&label=Profile%20views&color=0e75b6&style=flat" alt="spicdynamicdey123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spicdynamicdey123&label=Profile%20views&color=0e75b6&style=flat" alt="spicdynamicdey123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spicdynamicdey123" alt="aroxy22" /></a> </p>
 
@@ -19,8 +19,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=rudra-2005&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudra-2005&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=spicdynamic123&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=spicdynamicdey123&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spicdynamicdey123&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
