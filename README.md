@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spicdynamicdey123" alt="aroxy22" /></a> </p>
 
-- 🔭 I’m currently working on a project regarding **
+- 🔭 I’m currently working on **
 
-- 🌱 I’m currently learning *Power BI*
+- 🌱 I’m currently learning *Power BI and Data Science*
 
 - 👯 I’m looking to collaborate on *all my projects*
 
 - 🤝 I’m looking for help with *anyone*
 
-- 💬 Open to any *question*
+- 💬 Ask me about **
 
 - 📫 How to reach me *devadityadey008@gmail.com*
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=spicdynamic123&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=spicdynamicdeydey123&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=spicdynamicdey123&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spicdynamicdey123&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
