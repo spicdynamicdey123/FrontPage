@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with *anyone*
 
-- 💬 Ask me about **
+- 💬 Ask me about geopolitics and mind engaging topics
 
 - 📫 How to reach me *devadityadey008@gmail.com*
 
